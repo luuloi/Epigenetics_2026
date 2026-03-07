@@ -8,8 +8,8 @@
 ###
 [**01.0 Introduction to DNA METHYLATION and METHYLOME [Loi] - 05/03/2026**](Lecture_01/Lecture_01_2026Mar05.pdf) \
 [**01.1 How to use Google Colab [Loi] - 05/03/2026**](Lecture_01/Epigenetics_Lecture_00_20260226.pdf)
-- [Ref](https://www.geeksforgeeks.org/websites-apps/how-to-use-google-colab/)
+- [Ref: How to use Google Colab](https://www.geeksforgeeks.org/websites-apps/how-to-use-google-colab/)
 ###
 [**02.0 Clinical Epigenetics [Loi] - 12/03/2026**](Lecture_02/Lecture_02_2026Mar12.pdf) \
 [**02.1 How to use Github [Loi] - 12/03/2026**](Lecture_02/How_to_Use_GitHub.pdf)
-- [Ref](https://scribe.com/library/how-to-use-github)
+- [Ref: How to use Github](https://scribe.com/library/how-to-use-github)
