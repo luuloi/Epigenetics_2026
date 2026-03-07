@@ -7,7 +7,7 @@
 [**00.1 Epigenetics, Epigenomics and Its Applications [Loi] - 26/02/2026**](Lecture_00/Lecture_00_2026Feb26.pdf)
 ###
 [**01.0 Introduction to DNA METHYLATION and METHYLOME [Loi] - 05/03/2026**](Lecture_01/Lecture_01_2026Mar05.pdf) \
-[**01.1 How to use Google Colab [Loi] - 05/03/2026**](Lecture_01/Epigenetics_Lecture_00_20260226.pdf)
+[**01.1 How to use Google Colab [Loi] - 05/03/2026**](Lecture_01/How_to_use_Google_Colab.pdf)
 - [Ref: How to use Google Colab](https://www.geeksforgeeks.org/websites-apps/how-to-use-google-colab/)
 ###
 [**02.0 Clinical Epigenetics [Loi] - 12/03/2026**](Lecture_02/Lecture_02_2026Mar12.pdf) \
