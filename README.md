@@ -16,11 +16,11 @@
 ### 
 [**03.0 Epigenetic Diagnosis and Therapy [Loi] - 19/03/2026**](Lecture_03/Lecture_03_2026Mar19.pdf) \
 [**03.1 Endometrial cancer molecular classification based on DNA methylation data [Quan]**](Lecture_03/)\
-[**03.2 Introduction to RNA-seq**](Lecture_03/)
+[**03.2 Introduction to RNA-seq [Loi]**](Lecture_03/)
 ###
-[**03.0 Principles of Epigenetics: Gene Regulation  [Loi] - 26/3/2026**](Lecture_03/.pdf) \
-[**03.1 Profiling Gene Expression - Transcriptomics [Loi] - 26/3/2026**](Lecture_03/.pdf) \
-[**03.2 Basic Linux Commandlines and Awk [Giau] - 26/3/2026**](https://docs.google.com/presentation/d/1ESVP6DhZzJg4d9Y1Doh9WU86jGKXjueOXbtGlPDhck0/edit?usp=sharing) \
+[**04.0 Principles of Epigenetics: Gene Regulation  [Loi] - 26/3/2026**](Lecture_03/.pdf) \
+[**04.1 Profiling Gene Expression - Transcriptomics [Loi] - 26/3/2026**](Lecture_03/.pdf) \
+[**04.2 Basic Linux Commandlines and Awk [Giau] - 26/3/2026**](https://docs.google.com/presentation/d/1ESVP6DhZzJg4d9Y1Doh9WU86jGKXjueOXbtGlPDhck0/edit?usp=sharing) \
   Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15-DWYs2h56gc1aUwzkbzw74Et0L4pd5J?usp=sharing) &emsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1muvm1a_n5o8ikJb_nzKm2x8_banz0vN9?usp=sharing)
 ###  
 [**04.0 Chromatin based epigenetic control I [Loi] - 02/4/2026**](Lecture_04/.pdf) \
