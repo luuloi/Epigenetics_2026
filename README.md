@@ -15,7 +15,7 @@
 - [Ref: How to use Github](https://scribe.com/library/how-to-use-github)
 ### 
 [**03.0 Epigenetic Diagnosis and Therapy [Loi] - 19/03/2026**](Lecture_03/Lecture_03_2026Mar19.pdf) \
-[**03.1 Endometrial cancer molecular classification based on DNA methylation data [Quan] - 19/03/2026**](Lecture_03/)
+[**03.1 Endometrial cancer molecular classification based on DNA methylation data [Quan] - 19/03/2026**](Lecture_03/)\
 [**03.2 Introduction to RNA-seq**](Lecture_03/)
 ###
 [**03.0 Principles of Epigenetics: Gene Regulation  [Loi] - 26/3/2026**](Lecture_03/.pdf) \
