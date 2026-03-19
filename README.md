@@ -4,18 +4,18 @@
 #### ROOM C36, 227 Nguyen Van Cu st, Dist. 5, HCM city 
 ###
 [**00.0 Introduction to the course "Epigenetics 2026" [Loi] - 26/02/2026**](Lecture_00/Lecture_overview_20260226.pdf) \
-[**00.1 Epigenetics, Epigenomics and Its Applications [Loi] - 26/02/2026**](Lecture_00/Lecture_00_2026Feb26.pdf)
+[**00.1 Epigenetics, Epigenomics and Its Applications [Loi]**](Lecture_00/Lecture_00_2026Feb26.pdf)
 ###
 [**01.0 Introduction to DNA METHYLATION and METHYLOME [Loi] - 05/03/2026**](Lecture_01/Lecture_01_2026Mar05.pdf) \
-[**01.1 How to use Google Colab [Loi] - 05/03/2026**](Lecture_01/How_to_use_Google_Colab.pdf)
+[**01.1 How to use Google Colab [Loi]**](Lecture_01/How_to_use_Google_Colab.pdf)
 - [Ref: How to use Google Colab](https://www.geeksforgeeks.org/websites-apps/how-to-use-google-colab/)
 ###
 [**02.0 Introduction to Clinical Epigenetics [Loi] - 12/03/2026**](Lecture_02/Lecture_02_2026Mar12.pdf) \
-[**02.1 How to use Github [Loi] - 12/03/2026**](Lecture_02/How_to_Use_GitHub.pdf)
+[**02.1 How to use Github [Loi]**](Lecture_02/How_to_Use_GitHub.pdf)
 - [Ref: How to use Github](https://scribe.com/library/how-to-use-github)
 ### 
 [**03.0 Epigenetic Diagnosis and Therapy [Loi] - 19/03/2026**](Lecture_03/Lecture_03_2026Mar19.pdf) \
-[**03.1 Endometrial cancer molecular classification based on DNA methylation data [Quan] - 19/03/2026**](Lecture_03/)\
+[**03.1 Endometrial cancer molecular classification based on DNA methylation data [Quan]**](Lecture_03/)\
 [**03.2 Introduction to RNA-seq**](Lecture_03/)
 ###
 [**03.0 Principles of Epigenetics: Gene Regulation  [Loi] - 26/3/2026**](Lecture_03/.pdf) \
