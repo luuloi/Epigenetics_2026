@@ -48,6 +48,7 @@
 - Practice: deeptools [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BRaSW_I9um9wmPhHzutxk1p-ceBleTCc?usp=sharing), csaw [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19WNS2pn6DCV1pqVBWF5F_1cV6kqx6-0x?usp=sharing), [Datasets for deeptools/csaw](https://drive.google.com/drive/folders/1yCi3g2NEgG8PT4zGIFwEv_RitvDElw3f?usp=sharing)
 - [Dataset for homework](https://drive.google.com/drive/folders/1Rv2T07IssbvdgIbnV40ZXuiNWYCJnO5h?usp=sharing)
 Here is BAM files and gene regions for chr19. Please download these datasets and replicate the codes provided in the lecture (Datasets used for lecture are of chr22).
+###
 [**09.0 DNA-methylation and epigenetic control [Loi] - 07/5/2026**](Lecture_05/Lecture_05_DNA_methylation_2025April04.pdf)
 - [Exercise 1. Explain Figure 5 in the paper](https://link.springer.com/article/10.1186/s13059-022-02728-5/figures/5)
 - [Exercise 2. Explain Figure 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-3-uid-2)
@@ -64,7 +65,7 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - 03.Plotting: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BPod-aYReYvQqETqA2bTJIakoEkrAhJh?usp=sharing)
 - 04.Annotation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wAdjbi-1kV7BhXF0wIbhEXp10QXoyCHj?usp=sharing)
 - 05.Gene ontology analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12fUhTO6B7HvkgnfnJVqREoxm0VRL9byJ?usp=sharing)
-
+###
 [**10.0 Non-coding long and small RNAs in epigenetic control [Loi] - 14/5/2026**](Lecture_10/Lecture_07_RNAs_Epigenetic_control_2025April19.pdf)
 ***microRNA***
 - [microRNA biogenesis](https://www.nature.com/articles/sigtrans20154/figures/1)
@@ -76,8 +77,8 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [Exercise 4. Explain Figure 4 in the paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2845-y/figures/4)
 - [Exercise 5. Explain Figure 2, 4 and 5 in the paper](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-016-0079-z/figures/2)
 [**10.1 DNA methylation visualization with IGV [Kim]**](Lecture_06/)
-- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C1TPOLY5TvYufHYCfU0_EEi9YFLqUVwY?usp=sharing)
-
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C1TPOLY5TvYufHYCfU0_EEi9YFLqUVwY?usp=sharing) \
+###
 [**11.0 Mechanisms of epigenetic control during development and Ageing[Loi] - 21/5/2026**](Lecture_11/.pdf)
 ***Epigenetics in Development***
 - [Epigenetic Basis for the Differentiation Potential of Mesenchymal and Embryonic Stem Cells](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083288/)
@@ -85,11 +86,12 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 ***Class Exercises***
 - [Exercise 1. Explain the Figure 2 ](https://bmjopen.bmj.com/content/bmjopen/2/2/e000825/F2.large.jpg) [ in the paper](https://bmjopen.bmj.com/content/2/2/e000825)
 - [Exercise 2. Explain the Figure 1 in the paper](https://www.jpatholtm.org/journal/view.php?number=17020)
-- [Exercise 3. Explain the Figure 1 ](https://journals.plos.org/plosone/article/figures?id=10.1371/journal.pone.0101588)[in the paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101588)
+- [Exercise 3. Explain the Figure 1 ](https://journals.plos.org/plosone/article/figures?id=10.1371/journal.pone.0101588)[in the paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101588) \
 [**11.1 ENCODE and IHEC databases and visualizing Epigenomics with UCSC Genome Browser [Kim]**](Lecture_11/)
 - [PPTX](Lecture_07/ENCODE%20database%20and%20Visualizing%20epigenomics%20with%20UCSC%20Genome%20Browser.pptx)
 - [ENCODE database](https://www.encodeproject.org/)
 - [UCSC Genome Browser](https://genome.ucsc.edu/)
+###
 [**12.0 Epigenetics and Human Disease [Loi] - 28/5/2025**](Lecture_12/.pdf)
 ***From Rett Syndrome to Epigenetic Disease***
 - [How Mutations in the MECP2 Gene Cause Rett Syndrome](https://www.youtube.com/watch?v=eTzfA5_CdXg)
@@ -106,13 +108,17 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [Exercise 4. Explain the Figure 1 and 2 in the paper](https://www.mdpi.com/1422-0067/22/19/10375)
 ***Home Reading***
 - [Role of Epigenetics in Neural Differentiation:Implications for Health and Disease](Lecture_09/2013-ToraoEG-FragaMF-Neuraldifferentiation.pdf)
-- [Molecular genetics of Rett syndrome: when DNA methylation goes unrecognized](Lecture_09/bienvenu2006.pdf)
+- [Molecular genetics of Rett syndrome: when DNA methylation goes unrecognized](Lecture_09/bienvenu2006.pdf) \
+###
 [**12. Mechanisms of epigenetic control in plant I [Nguyen] - 04/6/2026**](Lecture_12/)
-- [PPTX](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_11/Plant%20Epigenetics_%20Nguyen%20Hoai%20Nguyen.pptx)
+- [PPTX](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_11/Plant%20Epigenetics_%20Nguyen%20Hoai%20Nguyen.pptx) \
+###
 [**13. Mechanisms of epigenetic control in plant II [Nguyen]**](Lecture_12/)
 - [PDF](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_12/2025.05.22_Histone%20acetylation%20and%20methylation%20in%20plants.pdf)
+###
 [**14. Student Self-Review At Home - 11/6/2026**](Lecture_14/)
-[**15. Oral Exam - 18/6/2026**](Lecture_14/)
-
+###
+[**15. Presentation and Oral Exam - 18/6/2026**](Lecture_15/)
+###
 ## Materials
 - [**Books**](https://github.com/luuloi/Epigenetics_2025/tree/main/Books)
