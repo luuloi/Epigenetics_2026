@@ -57,7 +57,7 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [Exercise 4. Explain Figure 5 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-5-uid-4)
 - [Exercise 5. Explain Figure 2 & 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/22902559/#&gid=article-figures&pid=figure-2-uid-2) \
 
-[**09.1 DNA methylation analysis with DMRcate [Thien/Hoang]**](Lecture_06/)
+[**09.1 DNA methylation analysis with DMRcate [Thien/Hoang]**](Lecture_09/)
 - [Introduction to DMR](https://www.benlaufer.com/DMRichR/articles/DMRichR.html)
 - [Data - LINK1](https://drive.google.com/drive/u/0/folders/1HznXe7mWZP8O2UyuCKQ6P6wlZOGG3Tlk)
 - [Data.gz - LINK2](https://drive.google.com/drive/folders/1e20QN3gAxuhVtW8N4ACwzq06Y9elZZA5?usp=sharing)
@@ -69,9 +69,11 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - 05.Gene ontology analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12fUhTO6B7HvkgnfnJVqREoxm0VRL9byJ?usp=sharing)
 ###
 [**10.0 Non-coding long and small RNAs in epigenetic control [Loi] - 14/5/2026**](Lecture_10/.pdf) \
+
 ***microRNA***
 - [microRNA biogenesis](https://www.nature.com/articles/sigtrans20154/figures/1)
 - [miR-200 family](https://www.frontiersin.org/files/Articles/965231/fonc-12-965231-HTML/image_m/fonc-12-965231-g001.jpg)
+
 ***Class Exercises***
 - [Exercise 1. Explain Figure 1 to 8 in the paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1271-4/figures/1)
 - [Exercise 2. Explain Figure 4 in the paper](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-019-0740-z/figures/4)
@@ -82,9 +84,11 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C1TPOLY5TvYufHYCfU0_EEi9YFLqUVwY?usp=sharing) \
 ###
 [**11.0 Mechanisms of epigenetic control during development and Ageing[Loi] - 21/5/2026**](Lecture_11/.pdf) \
+
 ***Epigenetics in Development***
 - [Epigenetic Basis for the Differentiation Potential of Mesenchymal and Embryonic Stem Cells](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083288/)
 - [Understanding the relationship between DNA methylation and histone lysine methylation](https://pmc.ncbi.nlm.nih.gov/articles/PMC4316174/)
+
 ***Class Exercises***
 - [Exercise 1. Explain the Figure 2 ](https://bmjopen.bmj.com/content/bmjopen/2/2/e000825/F2.large.jpg) [ in the paper](https://bmjopen.bmj.com/content/2/2/e000825)
 - [Exercise 2. Explain the Figure 1 in the paper](https://www.jpatholtm.org/journal/view.php?number=17020)
@@ -94,26 +98,30 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [ENCODE database](https://www.encodeproject.org/)
 - [UCSC Genome Browser](https://genome.ucsc.edu/)
 ###
-[**12.0 Epigenetics and Human Disease [Loi] - 28/5/2025**](Lecture_12/.pdf)
+[**12.0 Epigenetics and Human Disease [Loi] - 28/5/2025**](Lecture_12/.pdf) \
+
 ***From Rett Syndrome to Epigenetic Disease***
 - [How Mutations in the MECP2 Gene Cause Rett Syndrome](https://www.youtube.com/watch?v=eTzfA5_CdXg)
 - [Rett Syndrome: Genomes, Epigenomes and Neuropsychiatric](https://www.youtube.com/watch?v=-mKHhPb1q9Q)
 - [Pathogenesis of MeCP2 Disorders](https://www.youtube.com/watch?v=dATARGgk2IQ)
 - [Possible Future Therapies for Rett Syndrome](https://www.youtube.com/watch?v=TidhHWnVr0s)
-- [Mouse model](https://www.youtube.com/playlist?list=PLzLcLe4bAUoINUkmQtrUziSnEIkFziA4W)
+- [Mouse model](https://www.youtube.com/playlist?list=PLzLcLe4bAUoINUkmQtrUziSnEIkFziA4W) \
+
 ***Cancer Development and Metastasis***
-- [Dr. Thinh and Dr. Ngu lectures](https://www.youtube.com/playlist?list=PLXtgXP89Tyn-iYKR7_ShHyQEQN3CTt6AW)
+- [Dr. Thinh and Dr. Ngu lectures](https://www.youtube.com/playlist?list=PLXtgXP89Tyn-iYKR7_ShHyQEQN3CTt6AW) \
+
 ***Class Exercises***
 - [Exercise 1. Explain the Figure 1 ](https://www.mdpi.com/2075-1729/12/4/502)
 - [Exercise 2. Explain the Figure 1 to 5 in the paper](https://www.pnas.org/doi/10.1073/pnas.1505909112)
 - [Exercise 3. Explain the Figure 1 to 8 in the paper](https://www.nature.com/articles/s41467-018-07193-y)
-- [Exercise 4. Explain the Figure 1 and 2 in the paper](https://www.mdpi.com/1422-0067/22/19/10375)
+- [Exercise 4. Explain the Figure 1 and 2 in the paper](https://www.mdpi.com/1422-0067/22/19/10375) \
+
 ***Home Reading***
 - [Role of Epigenetics in Neural Differentiation:Implications for Health and Disease](Lecture_09/2013-ToraoEG-FragaMF-Neuraldifferentiation.pdf)
 - [Molecular genetics of Rett syndrome: when DNA methylation goes unrecognized](Lecture_09/bienvenu2006.pdf) \
 ###
 [**12. Mechanisms of epigenetic control in plant I [Nguyen] - 04/6/2026**](Lecture_12/)
-- [PPTX](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_11/Plant%20Epigenetics_%20Nguyen%20Hoai%20Nguyen.pptx) \
+- [PPTX](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_11/Plant%20Epigenetics_%20Nguyen%20Hoai%20Nguyen.pptx) 
 ###
 [**13. Mechanisms of epigenetic control in plant II [Nguyen]**](Lecture_12/)
 - [PDF](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_12/2025.05.22_Histone%20acetylation%20and%20methylation%20in%20plants.pdf)
