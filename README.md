@@ -34,7 +34,7 @@
 ###
 [**07.0 Whole Genome Bisulphite Sequencing and Methylation Array [Loi] - 16/4/2026**](Lecture_07/) \
 [**07.1 3C, 4C, 5C and Hi-C [Loi]**](Lecture_07/) \
-[**07.2 Mining Gene Expression GTEX and Epigenome Roadmap [Hung]**](Lecture_07/)
+[**07.2 Mining Gene Expression GTEX and Epigenome Roadmap [Phuc, Hung]**](Lecture_07/)
 - [GTEx Portal](https://www.gtexportal.org/home/)
   [Video](https://www.youtube.com/playlist?list=PLlMMtlgw6qNhuZZsEEy_xpj4HioUB2fNG)
 - [NIH Epigenome Roadmap](https://egg2.wustl.edu/roadmap/web_portal/) [ and WashU Epigenome Browser](https://epigenomegateway.wustl.edu/)
@@ -127,7 +127,18 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 
 ***Home Reading***
 - [Role of Epigenetics in Neural Differentiation:Implications for Health and Disease](Lecture_09/2013-ToraoEG-FragaMF-Neuraldifferentiation.pdf)
-- [Molecular genetics of Rett syndrome: when DNA methylation goes unrecognized](Lecture_09/bienvenu2006.pdf) 
+- [Molecular genetics of Rett syndrome: when DNA methylation goes unrecognized](Lecture_09/bienvenu2006.pdf)
+
+[**12.1 Mining IHEC and TCGA database [Hung, Phuc]**](Lecture_12/)
+- [IHEC Portal](https://epigenomesportal.ca/ihec/)
+  [Video](https://www.youtube.com/playlist?list=PLFqsgmkN18uGy-_wlyWx7Ccjuva3ArWQj)
+- [TCGA](https://portal.gdc.cancer.gov/)
+  [Video](https://www.youtube.com/watch?v=lBLiG9OyBXM&list=PLCQx4mwID7jvTGMBpTdye4RF4P1eD48jz)
+
+[**12.2 cBioPortal [Hung, Phuc]**](https://www.cbioportal.org/)
+- [cBioPortal Tutorial Series](https://www.youtube.com/watch?v=8VJY6Sq9ODk&list=PLWNp6Z5dXDZ7yRyny8aypSwrArs6e0EJi&index=3)
+- [cBioPortal How To Video](https://www.youtube.com/playlist?list=PLE2tjlUyHL8Fj1OOlvMepnLNqimTCLlyx)
+
 ###
 [**12. Mechanisms of epigenetic control in plant I [Nguyen] - 04/6/2026**](Lecture_12/)
 - [PPTX](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_11/Plant%20Epigenetics_%20Nguyen%20Hoai%20Nguyen.pptx) 
