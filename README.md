@@ -32,18 +32,18 @@
 - [PPTX](https://docs.google.com/presentation/d/18oGjXgykTA91DXay7zQNZkJvnIJmnQ2a/edit?usp=sharing&ouid=100344220632265055706&rtpof=true&sd=true)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EB90siBp9USSdRPQILVuVgAXkW3SvyjI?usp=sharing)
 ###
-[**07.0 Whole Genome Bisulphite Sequencing and Methylation Array [Loi] - 16/4/2026**](Lecture_07/)
-[**07.1 3C, 4C, 5C and Hi-C [Loi]**](Lecture_07/)
+[**07.0 Whole Genome Bisulphite Sequencing and Methylation Array [Loi] - 16/4/2026**](Lecture_07/) \
+[**07.1 3C, 4C, 5C and Hi-C [Loi]**](Lecture_07/) \
 [**07.2 Statistical analysis with R [Huy]**](Lecture_07/)
 ###
-[**08.0 ChIP-seq for Histone modifications and Transcription Factors Profiling [Loi] - 23/4/2026**](Lecture_08/)
+[**08.0 ChIP-seq for Histone modifications and Transcription Factors Profiling [Loi] - 23/4/2026**](Lecture_08/) \
 [**08.1 ChIP-seq for DNAaseI Hypersensitivity and ATAC-seq Analysis [Loi]**](Lecture_08/)
 - [Exercise 1. Explain Figure 1 in the paper](https://www.nature.com/articles/s41467-019-13753-7.pdf)
 - [Exercise 2. Explain Figure 7A in the paper](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01171-2)
 - [Exercise 3. Explain Figure 5E in the paper](https://www.sciencedirect.com/science/article/pii/S1535610819300388)
 - [Exercise 4. Explain Figure 4C and 4D in the paper](https://www.nature.com/articles/s41467-019-08302-1/figures/4)
 - [Exercise 5. Explain Figure 1F and 1H in the paper](https://www.nature.com/articles/s41467-019-14098-x/figures/1)
-[**08.2 Hands-on: Deeptools and CSAW [Duy]**](Lecture_08/)
+[**08.2 Hands-on: Deeptools and CSAW [Duy]**](Lecture_08/) \
 - [PPTX: Deeptools and CSAW](https://docs.google.com/presentation/d/13yffI7wHcu8j1FLx3DIAugzarE61tvI6/edit?usp=sharing&ouid=109874540725295450041&rtpof=true&sd=true)
 - Practice: deeptools [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BRaSW_I9um9wmPhHzutxk1p-ceBleTCc?usp=sharing), csaw [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19WNS2pn6DCV1pqVBWF5F_1cV6kqx6-0x?usp=sharing), [Datasets for deeptools/csaw](https://drive.google.com/drive/folders/1yCi3g2NEgG8PT4zGIFwEv_RitvDElw3f?usp=sharing)
 - [Dataset for homework](https://drive.google.com/drive/folders/1Rv2T07IssbvdgIbnV40ZXuiNWYCJnO5h?usp=sharing)
