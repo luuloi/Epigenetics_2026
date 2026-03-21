@@ -42,19 +42,19 @@
 - [Exercise 2. Explain Figure 7A in the paper](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01171-2)
 - [Exercise 3. Explain Figure 5E in the paper](https://www.sciencedirect.com/science/article/pii/S1535610819300388)
 - [Exercise 4. Explain Figure 4C and 4D in the paper](https://www.nature.com/articles/s41467-019-08302-1/figures/4)
-- [Exercise 5. Explain Figure 1F and 1H in the paper](https://www.nature.com/articles/s41467-019-14098-x/figures/1)
-[**08.2 Hands-on: Deeptools and CSAW [Duy]**](Lecture_08/) \
+- [Exercise 5. Explain Figure 1F and 1H in the paper](https://www.nature.com/articles/s41467-019-14098-x/figures/1) \
+[**08.2 Hands-on: Deeptools and CSAW [Duy]**](Lecture_08/)
 - [PPTX: Deeptools and CSAW](https://docs.google.com/presentation/d/13yffI7wHcu8j1FLx3DIAugzarE61tvI6/edit?usp=sharing&ouid=109874540725295450041&rtpof=true&sd=true)
 - Practice: deeptools [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BRaSW_I9um9wmPhHzutxk1p-ceBleTCc?usp=sharing), csaw [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19WNS2pn6DCV1pqVBWF5F_1cV6kqx6-0x?usp=sharing), [Datasets for deeptools/csaw](https://drive.google.com/drive/folders/1yCi3g2NEgG8PT4zGIFwEv_RitvDElw3f?usp=sharing)
 - [Dataset for homework](https://drive.google.com/drive/folders/1Rv2T07IssbvdgIbnV40ZXuiNWYCJnO5h?usp=sharing)
 Here is BAM files and gene regions for chr19. Please download these datasets and replicate the codes provided in the lecture (Datasets used for lecture are of chr22).
 ###
-[**09.0 DNA-methylation and epigenetic control [Loi] - 07/5/2026**](Lecture_05/Lecture_05_DNA_methylation_2025April04.pdf)
+[**09.0 DNA-methylation and epigenetic control [Loi] - 07/5/2026**](Lecture_09/.pdf)
 - [Exercise 1. Explain Figure 5 in the paper](https://link.springer.com/article/10.1186/s13059-022-02728-5/figures/5)
 - [Exercise 2. Explain Figure 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-3-uid-2)
 - [Exercise 3. Explain Figure 4 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-4-uid-3)
 - [Exercise 4. Explain Figure 5 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-5-uid-4)
-- [Exercise 5. Explain Figure 2 & 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/22902559/#&gid=article-figures&pid=figure-2-uid-2)
+- [Exercise 5. Explain Figure 2 & 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/22902559/#&gid=article-figures&pid=figure-2-uid-2) \
 [**09.1 DNA methylation analysis with DMRcate [Thien/Hoang]**](Lecture_06/)
 - [Introduction to DMR](https://www.benlaufer.com/DMRichR/articles/DMRichR.html)
 - [Data - LINK1](https://drive.google.com/drive/u/0/folders/1HznXe7mWZP8O2UyuCKQ6P6wlZOGG3Tlk)
@@ -66,7 +66,7 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - 04.Annotation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wAdjbi-1kV7BhXF0wIbhEXp10QXoyCHj?usp=sharing)
 - 05.Gene ontology analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12fUhTO6B7HvkgnfnJVqREoxm0VRL9byJ?usp=sharing)
 ###
-[**10.0 Non-coding long and small RNAs in epigenetic control [Loi] - 14/5/2026**](Lecture_10/Lecture_07_RNAs_Epigenetic_control_2025April19.pdf)
+[**10.0 Non-coding long and small RNAs in epigenetic control [Loi] - 14/5/2026**](Lecture_10/.pdf) \
 ***microRNA***
 - [microRNA biogenesis](https://www.nature.com/articles/sigtrans20154/figures/1)
 - [miR-200 family](https://www.frontiersin.org/files/Articles/965231/fonc-12-965231-HTML/image_m/fonc-12-965231-g001.jpg)
@@ -75,11 +75,11 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [Exercise 2. Explain Figure 4 in the paper](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-019-0740-z/figures/4)
 - [Exercise 3. Explain Figure 3 in the paper](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01403-7/figures/3)
 - [Exercise 4. Explain Figure 4 in the paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2845-y/figures/4)
-- [Exercise 5. Explain Figure 2, 4 and 5 in the paper](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-016-0079-z/figures/2)
+- [Exercise 5. Explain Figure 2, 4 and 5 in the paper](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-016-0079-z/figures/2) \
 [**10.1 DNA methylation visualization with IGV [Kim]**](Lecture_06/)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C1TPOLY5TvYufHYCfU0_EEi9YFLqUVwY?usp=sharing) \
 ###
-[**11.0 Mechanisms of epigenetic control during development and Ageing[Loi] - 21/5/2026**](Lecture_11/.pdf)
+[**11.0 Mechanisms of epigenetic control during development and Ageing[Loi] - 21/5/2026**](Lecture_11/.pdf) \
 ***Epigenetics in Development***
 - [Epigenetic Basis for the Differentiation Potential of Mesenchymal and Embryonic Stem Cells](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083288/)
 - [Understanding the relationship between DNA methylation and histone lysine methylation](https://pmc.ncbi.nlm.nih.gov/articles/PMC4316174/)
