@@ -140,19 +140,19 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [cBioPortal How To Video](https://www.youtube.com/playlist?list=PLE2tjlUyHL8Fj1OOlvMepnLNqimTCLlyx)
 
 ###
-[**12. Mechanisms of epigenetic control in plant I [Nguyen] - 04/6/2026**](Lecture_12/)
+[**13. Mechanisms of epigenetic control in plant I [Nguyen] - 04/6/2026**](Lecture_12/)
 - [PPTX](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_11/Plant%20Epigenetics_%20Nguyen%20Hoai%20Nguyen.pptx) 
 ###
-[**13. Mechanisms of epigenetic control in plant II [Nguyen] - 04/6/2026**](Lecture_13/)
+[**14. Mechanisms of epigenetic control in plant II [Nguyen] - 04/6/2026**](Lecture_13/)
 - [PDF](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_12/2025.05.22_Histone%20acetylation%20and%20methylation%20in%20plants.pdf)
 ###
-[**14.0 Single-cell Epigenomes [Loi] - 11/6/2026**](Lecture_14/) \
-[**14.1 Course Review**](Lecture_14/)
+[**15.0 Single-cell Epigenomes [Loi] - 11/6/2026**](Lecture_14/) \
+[**15.1 Course Review**](Lecture_14/)
 ###
-[**15. Home Review - 18/6/2026**](Lecture_15/)
+[**16. Home Review - 18/6/2026**](Lecture_15/)
 ###
 ###
-[**16. Presentation and Oral Exam - 25/6/2026**](Exam_16/)
+[**17. Presentation and Oral Exam - 25/6/2026**](Exam_16/)
 ###
 ## Materials
 - [**Books**](https://github.com/luuloi/Epigenetics_2025/tree/main/Books)
