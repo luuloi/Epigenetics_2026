@@ -39,6 +39,7 @@
   [Video](https://www.youtube.com/playlist?list=PLlMMtlgw6qNhuZZsEEy_xpj4HioUB2fNG)
 - [NIH Epigenome Roadmap](https://egg2.wustl.edu/roadmap/web_portal/) [ and WashU Epigenome Browser](https://epigenomegateway.wustl.edu/)
   [Video](https://www.youtube.com/watch?v=KnUew_HyA44&t=7s)
+
 [**07.3 Statistical analysis with R [Huy]**](Lecture_07/)
 ###
 [**08.0 ChIP-seq for Histone modifications and Transcription Factors Profiling [Loi] - 23/4/2026**](Lecture_08/) \
