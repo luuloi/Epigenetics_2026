@@ -42,7 +42,7 @@
 - [Exercise 2. Explain Figure 7A in the paper](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01171-2)
 - [Exercise 3. Explain Figure 5E in the paper](https://www.sciencedirect.com/science/article/pii/S1535610819300388)
 - [Exercise 4. Explain Figure 4C and 4D in the paper](https://www.nature.com/articles/s41467-019-08302-1/figures/4)
-- [Exercise 5. Explain Figure 1F and 1H in the paper](https://www.nature.com/articles/s41467-019-14098-x/figures/1)\
+- [Exercise 5. Explain Figure 1F and 1H in the paper](https://www.nature.com/articles/s41467-019-14098-x/figures/1) 
 
 [**08.2 Hands-on: Deeptools and CSAW [Duy]**](Lecture_08/)
 - [PPTX: Deeptools and CSAW](https://docs.google.com/presentation/d/13yffI7wHcu8j1FLx3DIAugzarE61tvI6/edit?usp=sharing&ouid=109874540725295450041&rtpof=true&sd=true)
@@ -81,8 +81,9 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [Exercise 4. Explain Figure 4 in the paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2845-y/figures/4)
 - [Exercise 5. Explain Figure 2, 4 and 5 in the paper](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-016-0079-z/figures/2)
 
-[**10.1 DNA methylation visualization with IGV [Kim]**](Lecture_06/)
-- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C1TPOLY5TvYufHYCfU0_EEi9YFLqUVwY?usp=sharing) \
+[**10.1 DNA methylation visualization with IGV [Kim]**](Lecture_10/)
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C1TPOLY5TvYufHYCfU0_EEi9YFLqUVwY?usp=sharing)
+
 ###
 [**11.0 Mechanisms of epigenetic control during development and Ageing [Loi] - 21/5/2026**](Lecture_11/.pdf) 
 
@@ -124,7 +125,7 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 [**12. Mechanisms of epigenetic control in plant I [Nguyen] - 04/6/2026**](Lecture_12/)
 - [PPTX](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_11/Plant%20Epigenetics_%20Nguyen%20Hoai%20Nguyen.pptx) 
 ###
-[**13. Mechanisms of epigenetic control in plant II [Nguyen]**](Lecture_12/)
+[**13. Mechanisms of epigenetic control in plant II [Nguyen]**](Lecture_13/)
 - [PDF](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_12/2025.05.22_Histone%20acetylation%20and%20methylation%20in%20plants.pdf)
 ###
 [**14. Student Self-Review At Home - 11/6/2026**](Lecture_14/)
