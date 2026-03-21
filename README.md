@@ -34,7 +34,12 @@
 ###
 [**07.0 Whole Genome Bisulphite Sequencing and Methylation Array [Loi] - 16/4/2026**](Lecture_07/) \
 [**07.1 3C, 4C, 5C and Hi-C [Loi]**](Lecture_07/) \
-[**07.2 Statistical analysis with R [Huy]**](Lecture_07/)
+[**07.2 Mining Gene Expression GTEX and Epigenome Roadmap [Hung]**](Lecture_07/)
+- [GTEx Portal](https://www.gtexportal.org/home/)
+  [Video](https://www.youtube.com/playlist?list=PLlMMtlgw6qNhuZZsEEy_xpj4HioUB2fNG)
+- [NIH Epigenome Roadmap](https://egg2.wustl.edu/roadmap/web_portal/) [ and WashU Epigenome Browser](https://epigenomegateway.wustl.edu/)
+  [Video](https://www.youtube.com/watch?v=KnUew_HyA44&t=7s)
+[**07.3 Statistical analysis with R [Huy]**](Lecture_07/)
 ###
 [**08.0 ChIP-seq for Histone modifications and Transcription Factors Profiling [Loi] - 23/4/2026**](Lecture_08/) \
 [**08.1 ChIP-seq for DNAaseI Hypersensitivity and ATAC-seq Analysis [Loi]**](Lecture_08/)
