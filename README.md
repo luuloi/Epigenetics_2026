@@ -18,9 +18,10 @@
 [**03.1 Endometrial cancer molecular classification based on DNA methylation data [Quan]**](Lecture_03/)\
 [**03.2 Profiling Gene Expression - Transcriptomics: Expression Array and RNA-seq [Loi]**](Lecture_03/Best_Practice_for_Bulk_RNA-seq_analysis_2026March19.pdf)
 ###
-[**04.0 Principles of Epigenetics: Gene Regulation  [Loi] - 26/3/2026**](Lecture_04/) \
+[**04.0 Principles of Epigenetics: Gene Regulation  [Loi] - 26/3/2026**](Lecture_04/) 
 - [Gene Expression and Chromatin: The Epigenetic Gatekeeper](Lecture_04/Lecture04_2026March26.pdf)
 - [The Basal Transcriptional Machinery]()
+  
 [**04.1 Basic Linux Commandlines and Awk [Giau]**](https://docs.google.com/presentation/d/1ESVP6DhZzJg4d9Y1Doh9WU86jGKXjueOXbtGlPDhck0/edit?usp=sharing) \
   Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15-DWYs2h56gc1aUwzkbzw74Et0L4pd5J?usp=sharing) &emsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1muvm1a_n5o8ikJb_nzKm2x8_banz0vN9?usp=sharing)  
   Basic Commandline: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15po4I88Cdi2fpyhKQLCFAbYpyjVO6_Ib)
