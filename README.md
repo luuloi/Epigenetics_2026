@@ -26,11 +26,11 @@
   Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15-DWYs2h56gc1aUwzkbzw74Et0L4pd5J?usp=sharing) &emsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1muvm1a_n5o8ikJb_nzKm2x8_banz0vN9?usp=sharing)  
   Basic Commandline: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15po4I88Cdi2fpyhKQLCFAbYpyjVO6_Ib)
 ###  
-[**05.0 Transcription Factors and Signal Transduction [Loi] - 02/4/2026**](Lecture_04/.pdf) \
-[**05.1 A Key Transcription Factor Family: Nuclear Receptors**](Lecture_04/.pdf) \
-[**05.2 Chromatin based epigenetic control I**](Lecture_04/.pdf) \
-[**05.3 Basic programing with R [Huy]**](Lecture_04/)
-- [PPTX](https://docs.google.com/presentation/d/1sQw0cibVatuXo0ReFGls_dv2DlFtnVJSfE33rWGeRLI/edit?usp=sharing)
+[**05.0 Transcription Factors and Signal Transduction [Loi] - 02/4/2026**](Lecture_05/Lecture05_2026April02_1.pdf) \
+[**05.1 A Key Transcription Factor Family: Nuclear Receptors**](Lecture_05/Lecture05_2026April02_2.pdf) \
+[**05.2 Chromatin based epigenetic control I**](Lecture_05/Lecture05_2026April02_3.pdf) \
+[**05.3 Basic programing with R [Huy]**](Lecture_05/)
+- [Lecture](https://docs.google.com/presentation/d/1sQw0cibVatuXo0ReFGls_dv2DlFtnVJSfE33rWGeRLI/edit?usp=sharing)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nfexzcugXV5ZFSobajMOrDqDOjwMouFy?usp=sharing)
 ###
 [**06.0 Chromatin based epigenetic control II [Loi] - 09/4/2026**](Lecture_06/.pdf) \
