@@ -1,4 +1,4 @@
-# Epigenetics 2026
+<img width="2130" height="238" alt="image" src="https://github.com/user-attachments/assets/ccda107e-c77c-4a9d-b45c-088cd1f21b08" /># Epigenetics 2026
 ##
 #### Weekly on Thursday, 18 to 21 PM
 #### ROOM C36, 227 Nguyen Van Cu st, Dist. 5, HCM city 
@@ -26,8 +26,10 @@
   Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15-DWYs2h56gc1aUwzkbzw74Et0L4pd5J?usp=sharing) &emsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1muvm1a_n5o8ikJb_nzKm2x8_banz0vN9?usp=sharing)  
   Basic Commandline: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15po4I88Cdi2fpyhKQLCFAbYpyjVO6_Ib)
 ###  
-[**05.0 Chromatin based epigenetic control I [Loi] - 02/4/2026**](Lecture_04/.pdf) \
-[**05.1 Basic programing with R [Huy]**](Lecture_02/)
+[**05.0 Transcription Factors and Signal Transduction [Loi] - 02/4/2026**](Lecture_04/.pdf) \
+[**05.1 A Key Transcription Factor Family: Nuclear Receptors**](Lecture_04/.pdf) \
+[**05.2 Chromatin based epigenetic control I**](Lecture_04/.pdf) \
+[**05.3 Basic programing with R [Huy]**](Lecture_04/)
 - [PPTX](https://docs.google.com/presentation/d/1sQw0cibVatuXo0ReFGls_dv2DlFtnVJSfE33rWGeRLI/edit?usp=sharing)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nfexzcugXV5ZFSobajMOrDqDOjwMouFy?usp=sharing)
 ###
