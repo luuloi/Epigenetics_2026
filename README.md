@@ -1,4 +1,4 @@
-<img width="2130" height="238" alt="image" src="https://github.com/user-attachments/assets/ccda107e-c77c-4a9d-b45c-088cd1f21b08" /># Epigenetics 2026
+# Epigenetics 2026
 ##
 #### Weekly on Thursday, 18 to 21 PM
 #### ROOM C36, 227 Nguyen Van Cu st, Dist. 5, HCM city 
