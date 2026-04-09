@@ -47,6 +47,8 @@
   [Video](https://www.youtube.com/watch?v=KnUew_HyA44&t=7s)
 
 [**07.3 Statistical analysis with R [Huy]**](Lecture_07/)
+- [PPTX](https://docs.google.com/presentation/d/1hMirLH5t6i9YgiC1r8AgWQAk1X2k6RlRBF4feB1yBZY/edit?usp=sharing)
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EB90siBp9USSdRPQILVuVgAXkW3SvyjI?usp=sharing)
 ###
 [**08.0 ChIP-seq for Histone modifications and Transcription Factors Profiling [Loi] - 23/4/2026**](Lecture_08/) \
 [**08.1 ChIP-seq for DNAaseI Hypersensitivity and ATAC-seq Analysis [Loi]**](Lecture_08/)
