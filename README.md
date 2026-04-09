@@ -36,7 +36,7 @@
 [**06.0 Chromatin based epigenetic control II [Loi] - 09/4/2026**](Lecture_06/Lecture06_Chromatin_II_2026April09.pdf) \
 [**06.1 Data Visualization with R [Huy]**](Lecture_06/)
 - [PPTX](https://docs.google.com/presentation/d/18oGjXgykTA91DXay7zQNZkJvnIJmnQ2a/edit?usp=sharing&ouid=100344220632265055706&rtpof=true&sd=true)
-- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EB90siBp9USSdRPQILVuVgAXkW3SvyjI?usp=sharing)
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l3GduJF_MGgZertdIM-0qmyVxuPtUfLY?usp=sharing)
 ###
 [**07.0 Whole Genome Bisulphite Sequencing and Methylation Array [Loi] - 16/4/2026**](Lecture_07/) \
 [**07.1 3C, 4C, 5C and Hi-C [Loi]**](Lecture_07/) \
