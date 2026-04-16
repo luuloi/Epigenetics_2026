@@ -42,7 +42,10 @@
 - [Reading 1](https://www.cd-genomics.com/whole-genome-bisulfite-sequencing.html)
 - [Reading 2](https://link.springer.com/article/10.1186/s13072-025-00616-3)
  
-[**07.1 3C, 4C, 5C and Hi-C [Loi]**](Lecture_07/) \
+[**07.1 3C, 4C, 5C and Hi-C [Loi]**](Lecture_07/Lecture_07_2026April16_1.pdf) \
+- [Reading 1](https://www.nature.com/articles/s41587-024-02447-1)
+- [Reading 2](https://www.nature.com/articles/s41421-025-00770-8)
+  
 [**07.2 Mining Gene Expression GTEX and Epigenome Roadmap [Phuc, Hung]**](Lecture_07/)
 - [GTEx Portal](https://www.gtexportal.org/home/)
   [Video](https://www.youtube.com/playlist?list=PLlMMtlgw6qNhuZZsEEy_xpj4HioUB2fNG)
