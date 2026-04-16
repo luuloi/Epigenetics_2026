@@ -38,7 +38,9 @@
 - [PPTX](https://docs.google.com/presentation/d/18oGjXgykTA91DXay7zQNZkJvnIJmnQ2a/edit?usp=sharing&ouid=100344220632265055706&rtpof=true&sd=true)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l3GduJF_MGgZertdIM-0qmyVxuPtUfLY?usp=sharing)
 ###
-[**07.0 Whole Genome Bisulphite Sequencing and Methylation Array [Loi] - 16/4/2026**](Lecture_07/) \
+[**07.0 EM-seq, WGBS (Whole Genome Bisulphite Sequencing) and 930K Methylation Array [Loi] - 16/4/2026**](Lecture_07/)\
+- [Reading](https://link.springer.com/article/10.1186/s13072-025-00616-3)
+- 
 [**07.1 3C, 4C, 5C and Hi-C [Loi]**](Lecture_07/) \
 [**07.2 Mining Gene Expression GTEX and Epigenome Roadmap [Phuc, Hung]**](Lecture_07/)
 - [GTEx Portal](https://www.gtexportal.org/home/)
