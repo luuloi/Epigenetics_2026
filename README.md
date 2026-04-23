@@ -34,7 +34,8 @@
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nfexzcugXV5ZFSobajMOrDqDOjwMouFy?usp=sharing)
 ###
 [**06.0 Chromatin based epigenetic control II [Loi] - 09/4/2026**](Lecture_06/Lecture06_Chromatin_II_2026April09.pdf) \
-[**06.1 Data Visualization with R [Huy]**](Lecture_06/)
+[**06.1 Epigenetic Factor Database [Loi]**](https://epifactors.autosome.org/) \
+[**06.2 Data Visualization with R [Huy]**](Lecture_06/)
 - [PPTX](https://docs.google.com/presentation/d/18oGjXgykTA91DXay7zQNZkJvnIJmnQ2a/edit?usp=sharing&ouid=100344220632265055706&rtpof=true&sd=true)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l3GduJF_MGgZertdIM-0qmyVxuPtUfLY?usp=sharing)
 ###
