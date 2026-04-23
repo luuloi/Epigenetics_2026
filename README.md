@@ -57,8 +57,8 @@
 - [PPTX](https://docs.google.com/presentation/d/1hMirLH5t6i9YgiC1r8AgWQAk1X2k6RlRBF4feB1yBZY/edit?usp=sharing)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EB90siBp9USSdRPQILVuVgAXkW3SvyjI?usp=sharing)
 ###
-[**08.0 ChIP-seq for Histone modifications and Transcription Factors Profiling; JASPAR - TF Database [Loi] - 23/4/2026**](Lecture_08/) \
-[**08.1 ChIP-seq for DNAaseI Hypersensitivity and ATAC-seq Analysis; ChromHMM [Loi]**](Lecture_08/)
+[**08.0 ChIP-seq for Histone modifications and Transcription Factors Profiling; JASPAR - TF Database [Loi] - 23/4/2026**](Lecture_08/Lecture_08_2026April23_0_and_1.pdf) \
+[**08.1 ChIP-seq for DNAaseI Hypersensitivity and ATAC-seq Analysis; ChromHMM [Loi]**](Lecture_08/Lecture_08_2026April23_0_and_1.pdf)
 - [Exercise 1. Explain Figure 1 in the paper](https://www.nature.com/articles/s41467-019-13753-7.pdf)
 - [Exercise 2. Explain Figure 7A in the paper](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01171-2)
 - [Exercise 3. Explain Figure 5E in the paper](https://www.sciencedirect.com/science/article/pii/S1535610819300388)
