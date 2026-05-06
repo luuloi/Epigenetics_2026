@@ -100,7 +100,7 @@
 - [Exercise 4. Explain Figure 4 in the paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2845-y/figures/4)
 - [Exercise 5. Explain Figure 2, 4 and 5 in the paper](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-016-0079-z/figures/2)
 
-[**10.1 DNA methylation visualization with IGV [Kim]**](Lecture_10/)
+[**10.1 DNA methylation visualization with IGV [Quan]**](Lecture_10/)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C1TPOLY5TvYufHYCfU0_EEi9YFLqUVwY?usp=sharing)
 
 ###
@@ -115,7 +115,7 @@
 - [Exercise 2. Explain the Figure 1 in the paper](https://www.jpatholtm.org/journal/view.php?number=17020)
 - [Exercise 3. Explain the Figure 1 ](https://journals.plos.org/plosone/article/figures?id=10.1371/journal.pone.0101588)[in the paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101588)
 
-[**11.1 ENCODE and IHEC databases and visualizing Epigenomics with UCSC Genome Browser [Kim]**](Lecture_11/)
+[**11.1 ENCODE and IHEC databases and visualizing Epigenomics with UCSC Genome Browser [Hung]**](Lecture_11/)
 - [PPTX](Lecture_07/ENCODE%20database%20and%20Visualizing%20epigenomics%20with%20UCSC%20Genome%20Browser.pptx)
 - [ENCODE database](https://www.encodeproject.org/)
 - [UCSC Genome Browser](https://genome.ucsc.edu/)
