@@ -69,7 +69,7 @@
 - [Practice](https://github.com/luuloi/Epigenetics_2026/tree/main/Lecture_08/Hands_on_session)
 
 ###
-[**09.0 DNA-methylation and epigenetic control [Loi] - 07/5/2026**](Lecture_09/.pdf)
+[**09.0 DNA-methylation and epigenetic control [Loi] - 07/5/2026**](Lecture_09/Lecture_09_DNA_methylation_2026May07.pdf)
 - [Exercise 1. Explain Figure 5 in the paper](https://link.springer.com/article/10.1186/s13059-022-02728-5/figures/5)
 - [Exercise 2. Explain Figure 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-3-uid-2)
 - [Exercise 3. Explain Figure 4 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-4-uid-3)
