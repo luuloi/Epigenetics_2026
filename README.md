@@ -86,7 +86,7 @@
 - 03_downstream_analysis_part2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a1mBBpvygqceIA_OM8WYoC3bv7c4Ntup?usp=drive_link)
 
 ###
-[**10.0 Non-coding long and small RNAs in epigenetic control [Loi] - 14/5/2026**](Lecture_10/.pdf) 
+[**10.0 Non-coding long and small RNAs in epigenetic control [Loi] - 14/5/2026**](Lecture_10/Lecture_10_RNAs_Epigenetic_control_2026May14.pdf) 
 
 ***microRNA***
 - [microRNA biogenesis](https://www.nature.com/articles/sigtrans20154/figures/1)
