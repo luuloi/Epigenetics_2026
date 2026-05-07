@@ -76,16 +76,15 @@
 - [Exercise 4. Explain Figure 5 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-5-uid-4)
 - [Exercise 5. Explain Figure 2 & 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/22902559/#&gid=article-figures&pid=figure-2-uid-2) 
 
-[**09.1 DNA methylation analysis with DMRcate [Thien/Hoang/Quan]**](Lecture_09/)
+[**09.1 DNA methylation analysis with DMRcate [Quan/Thien/Hoang]**](Lecture_09/)
 - [Introduction to DMR](https://www.benlaufer.com/DMRichR/articles/DMRichR.html)
-- [Data - LINK1](https://drive.google.com/drive/u/0/folders/1HznXe7mWZP8O2UyuCKQ6P6wlZOGG3Tlk)
-- [Data.gz - LINK2](https://drive.google.com/drive/folders/1e20QN3gAxuhVtW8N4ACwzq06Y9elZZA5?usp=sharing)
-- 00.Install_packages: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1STyYmFZ9C2MXuZ-ukaRBX_dLP9iy5zTi?usp=sharing)
-- 01.GSE2IDAT_&_IDAT2Table: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NyETDEQA0Q3P3nMAhoVDEhHcs05ru0lq?usp=sharing)
-- 02.DMRcate: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MKA14XC7laeRET_5HfHkxKVmbGFW3aJ3?usp=sharing)
-- 03.Plotting: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BPod-aYReYvQqETqA2bTJIakoEkrAhJh?usp=sharing)
-- 04.Annotation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wAdjbi-1kV7BhXF0wIbhEXp10QXoyCHj?usp=sharing)
-- 05.Gene ontology analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12fUhTO6B7HvkgnfnJVqREoxm0VRL9byJ?usp=sharing)
+- [Materials](https://drive.google.com/drive/folders/1HznXe7mWZP8O2UyuCKQ6P6wlZOGG3Tlk?usp=sharing)
+- 00_install_packages: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/128XG91WCnJ8a43AOhbxWC5RoiwdCIRSP?usp=drive_link)
+- 01_download_data: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U9EVBNO6hIxKwaqaGRVMmDvM80oiSNLM?usp=drive_link)
+- 02_upstream_analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iF2n_k3LLhz6vfVxaON4jXUwQQ-sZyLA?usp=drive_link)
+- 03_downstream_analysis_part1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZcT3DPvsj0FuEnGZGY-ld8Ld_-VczHwI?usp=drive_link)
+- 03_downstream_analysis_part2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a1mBBpvygqceIA_OM8WYoC3bv7c4Ntup?usp=drive_link)
+
 ###
 [**10.0 Non-coding long and small RNAs in epigenetic control [Loi] - 14/5/2026**](Lecture_10/.pdf) 
 
