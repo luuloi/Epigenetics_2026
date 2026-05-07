@@ -103,8 +103,10 @@
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C1TPOLY5TvYufHYCfU0_EEi9YFLqUVwY?usp=sharing)
 
 ###
-[**11.0 Mechanisms of epigenetic control during development and Ageing [Loi] - 21/5/2026**](Lecture_11/.pdf) 
-
+[**11.0 Mechanisms of epigenetic control during Development and Ageing [Loi] - 21/5/2026**](Lecture_11) 
+- [**11.01 Mechanisms of epigenetic control during Development**](Lecture_11/Lecture_11_Epigenetics_Development_2026May21.pdf)
+- [**11.02 Mechanisms of epigenetic control of Ageing**](Lecture_11/Mechanisms_of_Epigenetic_Control_During_Aging.pdf)
+  
 ***Epigenetics in Development***
 - [Epigenetic Basis for the Differentiation Potential of Mesenchymal and Embryonic Stem Cells](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083288/)
 - [Understanding the relationship between DNA methylation and histone lysine methylation](https://pmc.ncbi.nlm.nih.gov/articles/PMC4316174/)
