@@ -166,7 +166,7 @@
 [**16. Home Review - 18/6/2026**](Lecture_15/)
 ###
 ###
-[**17. Presentation and Oral Exam - 25/6/2026**](Exam_16/)
+[**17. Writing Exam - 04/6/2026**](Exam_16/)
 ###
 ## Materials
-- [**Books**](https://github.com/luuloi/Epigenetics_2025/tree/main/Books)
+- [**Books**](https://github.com/luuloi/Epigenetics_2026/tree/main/Books)
