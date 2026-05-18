@@ -99,6 +99,10 @@
 - [Exercise 4. Explain Figure 4 in the paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2845-y/figures/4)
 - [Exercise 5. Explain Figure 2, 4 and 5 in the paper](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-016-0079-z/figures/2)
 
+***microRNA Databases***
+- [MIRdb](https://mirdb.org/index.html)
+- [Experimentally validated human microRNA–mRNA interactions](http://mirtarbase.cuhk.edu.cn/)
+
 [**10.1 DNA methylation visualization with IGV [Quan]**](Lecture_10/)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C1TPOLY5TvYufHYCfU0_EEi9YFLqUVwY?usp=sharing)
 
