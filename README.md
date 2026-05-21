@@ -120,12 +120,8 @@
 - [Exercise 2. Explain the Figure 1 in the paper](https://www.jpatholtm.org/journal/view.php?number=17020)
 - [Exercise 3. Explain the Figure 1 ](https://journals.plos.org/plosone/article/figures?id=10.1371/journal.pone.0101588)[in the paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101588)
 
-[**11.1 ENCODE and IHEC databases and visualizing Epigenomics with UCSC Genome Browser [Hung]**](Lecture_11/)
-- [PPTX](Lecture_07/ENCODE%20database%20and%20Visualizing%20epigenomics%20with%20UCSC%20Genome%20Browser.pptx)
-- [ENCODE database](https://www.encodeproject.org/)
-- [UCSC Genome Browser](https://genome.ucsc.edu/)
 ###
-[**12.0 Epigenetics and Human Disease [Loi] - 28/5/2025**](Lecture_12/.pdf) 
+[**12.0 Epigenetics and Human Disease [Loi] - 28/5/2026**](Lecture_12/.pdf) 
 
 ***From Rett Syndrome to Epigenetic Disease***
 - [How Mutations in the MECP2 Gene Cause Rett Syndrome](https://www.youtube.com/watch?v=eTzfA5_CdXg)
@@ -147,18 +143,8 @@
 - [Role of Epigenetics in Neural Differentiation:Implications for Health and Disease](Lecture_09/2013-ToraoEG-FragaMF-Neuraldifferentiation.pdf)
 - [Molecular genetics of Rett syndrome: when DNA methylation goes unrecognized](Lecture_09/bienvenu2006.pdf)
 
-[**12.1 Mining IHEC and TCGA database [Hung, Phuc]**](Lecture_12/)
-- [IHEC Portal](https://epigenomesportal.ca/ihec/)
-  [Video](https://www.youtube.com/playlist?list=PLFqsgmkN18uGy-_wlyWx7Ccjuva3ArWQj)
-- [TCGA](https://portal.gdc.cancer.gov/)
-  [Video](https://www.youtube.com/watch?v=lBLiG9OyBXM&list=PLCQx4mwID7jvTGMBpTdye4RF4P1eD48jz)
-
-[**12.2 cBioPortal [Hung, Phuc]**](https://www.cbioportal.org/)
-- [cBioPortal Tutorial Series](https://www.youtube.com/watch?v=8VJY6Sq9ODk&list=PLWNp6Z5dXDZ7yRyny8aypSwrArs6e0EJi&index=3)
-- [cBioPortal How To Video](https://www.youtube.com/playlist?list=PLE2tjlUyHL8Fj1OOlvMepnLNqimTCLlyx)
-
 ###
-[**13.0 ENCODE and IHEC databases and visualizing Epigenomics with UCSC Genome Browser [Hung]**](Lecture_13/)
+[**13.0 ENCODE and IHEC databases and visualizing Epigenomics with UCSC Genome Browser [Hung] 02/6/2026**](Lecture_13/)
 - [PPTX](Lecture_07/ENCODE%20database%20and%20Visualizing%20epigenomics%20with%20UCSC%20Genome%20Browser.pptx)
 - [ENCODE database](https://www.encodeproject.org/)
 - [UCSC Genome Browser](https://genome.ucsc.edu/)
