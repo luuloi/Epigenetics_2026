@@ -158,19 +158,35 @@
 - [cBioPortal How To Video](https://www.youtube.com/playlist?list=PLE2tjlUyHL8Fj1OOlvMepnLNqimTCLlyx)
 
 ###
-[**13. Mechanisms of epigenetic control in plant I [Nguyen] - 04/6/2026**](Lecture_12/)
+[**13.0 ENCODE and IHEC databases and visualizing Epigenomics with UCSC Genome Browser [Hung]**](Lecture_13/)
+- [PPTX](Lecture_07/ENCODE%20database%20and%20Visualizing%20epigenomics%20with%20UCSC%20Genome%20Browser.pptx)
+- [ENCODE database](https://www.encodeproject.org/)
+- [UCSC Genome Browser](https://genome.ucsc.edu/)
+
+[**13.1 Mining IHEC and TCGA database [Hung, Phuc]**](Lecture_13/)
+- [IHEC Portal](https://epigenomesportal.ca/ihec/)
+  [Video](https://www.youtube.com/playlist?list=PLFqsgmkN18uGy-_wlyWx7Ccjuva3ArWQj)
+- [TCGA](https://portal.gdc.cancer.gov/)
+  [Video](https://www.youtube.com/watch?v=lBLiG9OyBXM&list=PLCQx4mwID7jvTGMBpTdye4RF4P1eD48jz)
+
+[**13.2 cBioPortal [Hung, Phuc]**](https://www.cbioportal.org/)
+- [cBioPortal Tutorial Series](https://www.youtube.com/watch?v=8VJY6Sq9ODk&list=PLWNp6Z5dXDZ7yRyny8aypSwrArs6e0EJi&index=3)
+- [cBioPortal How To Video](https://www.youtube.com/playlist?list=PLE2tjlUyHL8Fj1OOlvMepnLNqimTCLlyx)
+
+###
+[**14. Mechanisms of epigenetic control in plant I [Nguyen] - 04/6/2026**](Lecture_12/)
 - [PPTX](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_11/Plant%20Epigenetics_%20Nguyen%20Hoai%20Nguyen.pptx) 
 ###
-[**14. Mechanisms of epigenetic control in plant II [Nguyen] - 04/6/2026**](Lecture_13/)
+[**15. Mechanisms of epigenetic control in plant II [Nguyen] - 04/6/2026**](Lecture_13/)
 - [PDF](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_12/2025.05.22_Histone%20acetylation%20and%20methylation%20in%20plants.pdf)
 ###
-[**15.0 Single-cell Epigenomes [Loi] - 11/6/2026**](Lecture_14/) \
-[**15.1 Course Review**](Lecture_14/)
+[**16.0 Single-cell Epigenomes [Loi] - 11/6/2026**](Lecture_14/) \
+[**16.1 Course Review**](Lecture_14/)
 ###
-[**16. Home Review - 18/6/2026**](Lecture_15/)
+[**17. Home Review - 18/6/2026**](Lecture_15/)
 ###
 ###
-[**17. Writing Exam - 04/6/2026**](Exam_16/)
+[**18. Writing Exam - 04/6/2026**](Exam_16/)
 ###
 ## Materials
 - [**Books**](https://github.com/luuloi/Epigenetics_2026/tree/main/Books)
