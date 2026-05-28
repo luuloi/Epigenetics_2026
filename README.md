@@ -144,7 +144,7 @@
 - [Molecular genetics of Rett syndrome: when DNA methylation goes unrecognized](Lecture_09/bienvenu2006.pdf)
 
 ###
-**Writing Exam - 04/6/2026**: Multiple choice, Filling, Cross column and Discussion/Explanation
+## **Writing Exam - 04/6/2026**: Multiple choice, Filling, Cross column and Discussion/Explanation
 - [Review Questions](Review_Questions/)
 
 ###
