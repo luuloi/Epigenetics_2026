@@ -144,6 +144,10 @@
 - [Molecular genetics of Rett syndrome: when DNA methylation goes unrecognized](Lecture_09/bienvenu2006.pdf)
 
 ###
+**Writing Exam - 04/6/2026**: Multiple choice, Filling, Cross column and Discussion/Explanation
+- [Review Questions](Review_Questions/)
+
+###
 [**13.0 ENCODE and IHEC databases and visualizing Epigenomics with UCSC Genome Browser [Hung] 02/6/2026**](Lecture_13/)
 - [PPTX](Lecture_07/ENCODE%20database%20and%20Visualizing%20epigenomics%20with%20UCSC%20Genome%20Browser.pptx)
 - [ENCODE database](https://www.encodeproject.org/)
@@ -162,17 +166,18 @@
 ###
 [**14. Mechanisms of epigenetic control in plant I [Nguyen] - 04/6/2026**](Lecture_12/)
 - [PPTX](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_11/Plant%20Epigenetics_%20Nguyen%20Hoai%20Nguyen.pptx) 
+
 ###
 [**15. Mechanisms of epigenetic control in plant II [Nguyen] - 04/6/2026**](Lecture_13/)
 - [PDF](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_12/2025.05.22_Histone%20acetylation%20and%20methylation%20in%20plants.pdf)
+
 ###
 [**16.0 Single-cell Epigenomes [Loi] - 11/6/2026**](Lecture_14/) \
 [**16.1 Course Review**](Lecture_14/)
+
 ###
 [**17. Home Review - 18/6/2026**](Lecture_15/)
-###
-###
-[**18. Writing Exam - 04/6/2026**](Exam_16/)
+
 ###
 ## Materials
 - [**Books**](https://github.com/luuloi/Epigenetics_2026/tree/main/Books)
